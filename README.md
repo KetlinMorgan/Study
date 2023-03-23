@@ -1,2 +1,2 @@
-# Pythontutor
-A couple of tutorial tasks from Pythontutor
+# Study
+A couple of tutorial tasks from Pythontutor, Stepik and Tinkoff
