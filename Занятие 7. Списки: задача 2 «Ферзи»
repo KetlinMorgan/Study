@@ -17,5 +17,3 @@ for i in range(8):
         if len(set(sp1)) != 8 or len(set(sp2)) != 8 or abs(sp1[i] - sp1[j]) == abs(sp2[i] - sp2[j]):
             k = k + 1
 print('YES' if k > 0 else 'NO')
-
-

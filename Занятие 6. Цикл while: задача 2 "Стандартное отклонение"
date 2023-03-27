@@ -18,3 +18,4 @@ for i in range(n):
     Q = Q + (num_sp[i] - s) ** 2
 
 print(sqrt(Q / (n - 1)))
+

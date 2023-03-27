@@ -14,3 +14,4 @@ for i in range(k):
     s = s[0:l-1] + '.' * (r - l + 1) + s[r:]
 
 print(s)
+

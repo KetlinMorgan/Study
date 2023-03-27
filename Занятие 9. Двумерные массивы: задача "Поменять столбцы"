@@ -19,3 +19,4 @@ for i in range(n):
         else:
             print(mp[i][j], end=' ')
     print()
+
