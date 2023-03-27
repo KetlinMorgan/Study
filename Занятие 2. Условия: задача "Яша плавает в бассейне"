@@ -16,3 +16,4 @@ elif (N - y) >= y and (M - x) < x:
     print(min(y, M - x))
 else:
     print(min(N - y, M - x))
+    
