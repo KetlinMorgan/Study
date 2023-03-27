@@ -21,3 +21,4 @@ for i in range(k):
         a_i = a_i + b_i
 
 print(len(mn))
+
